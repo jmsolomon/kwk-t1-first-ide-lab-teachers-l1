@@ -16,6 +16,6 @@
 
 # blue
 
-def says_hello
+def say_hello
 
 
