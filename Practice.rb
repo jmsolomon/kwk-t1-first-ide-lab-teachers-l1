@@ -17,6 +17,6 @@
 # blue
 
 def say_hello (your_name)
-  puts ""
+  puts "Hello #{your_name}"
 
 
