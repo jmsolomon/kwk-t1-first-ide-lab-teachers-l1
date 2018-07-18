@@ -9,11 +9,11 @@
 
 
 
-def blue
- your_name = "Carl"
-  puts "Hello #{your_name}!"
-  end
+# def blue
+# your_name = "Carl"
+#   puts "Hello #{your_name}!"
+#   end
 
-blue
+# blue
 
 
