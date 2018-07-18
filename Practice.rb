@@ -9,11 +9,11 @@
 
 
 
-def say_hello
+def blue
  your_name = "Carl"
   puts "Hello #{your_name}!"
   end
 
-say_hello
+blue
 
 
