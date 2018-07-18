@@ -16,6 +16,6 @@
 
 # blue
 
-def says hello_name
+def says_hello
 
 
