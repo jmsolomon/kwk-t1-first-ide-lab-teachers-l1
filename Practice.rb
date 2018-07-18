@@ -10,10 +10,9 @@
 
 
 def say_hello
+ your_name = "Jason"
   puts "Hello#{your_name}!"
-  
-  your_name = "Jason"
-end
+  end
 
 say_hello
 
