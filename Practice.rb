@@ -16,14 +16,16 @@
 
 # blue
 
-def say_hello (your_name)
+# def say_hello (your_name)
 
  
-  puts "Hello #{your_name}!"
+#   puts "Hello #{your_name}!"
   
-end
+# end
 
- say_hello"Charlie"
- say_hello"Jason"
- say_hello"Carl"
+# say_hello"Charlie"
+# say_hello"Jason"
+# say_hello"Carl"
 
+
+def 
