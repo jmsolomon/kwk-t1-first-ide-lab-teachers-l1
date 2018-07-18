@@ -7,10 +7,11 @@
 #   items_price += 1 
 # end
 
-your_name= "Jason"
+
 
 def say_hello
   puts "Hello#{your_name}!"
+  your_name= "Jason"
 end
 
 say_hello
