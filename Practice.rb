@@ -17,7 +17,9 @@
 # blue
 
 def say_hello (your_name)
- 
+ say_hello"Charlie"
+ say_hello"Jason"
+ say_hello"Carl"
  
   puts "Hello #{your_name}!"
   
